@@ -55,7 +55,7 @@ quadruped-robot/
 ## Current Development
 Actively integrating a **custom PCB** and **camera module** for real-time visual navigation and obstacle avoidance — expected completion July 2026.
 
----
+> Note: This is the base gait implementation. Current hardware version includes additional tuning parameters not reflected here.
 
 ## Built By
 Ipshita Maheshwari — [LinkedIn](https://www.linkedin.com/in/ipshita-maheshwari-56426230a)
